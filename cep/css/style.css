@@ -1,0 +1,42 @@
+*{
+
+    margin: 15; /*margem*/
+
+    padding: 10; /*preenchimento*/
+
+    box-sizing: border-box; /*dimensao da caixa: caixa de borda*/
+
+    font-size: 20px; /*tamanho da fonte*/
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-color:rgb(150, 224, 166);
+
+    color: rgb(0, 0, 0);
+    
+
+
+
+   
+}
+
+body{
+
+
+
+    text-align: center;
+    
+    
+    
+    background-color:rgb(150, 224, 166);
+    
+    
+    
+    color: rgb(150, 224, 166);
+    
+    
+    
+    font-family: 'black coffee shadow', 'Arial Narrow',Arial, sans-serif;
+    
+    }
+
